@@ -1,0 +1,3 @@
+rootProject.name = "W5MusicPlayer"
+include ':app'
+include ':mwasiqforegroundservice'
